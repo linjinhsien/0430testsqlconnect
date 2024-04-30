@@ -27,8 +27,9 @@ namespace THM104_G2
 
             // 輸出一條訊息
             Console.WriteLine("Esther好想睡覺");
-        }
-    }
+                }
+         
+            }
 
     // 定義與資料庫表格對應的類別
     [Table(Name = "Customers")]
